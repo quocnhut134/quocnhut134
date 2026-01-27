@@ -41,7 +41,7 @@ Here are some of my key projects in Computer Vision (CV) and NLP:
 | :--- | :--- | :--- |
 | **[Visible-Infrared Person Re-ID](https://github.com/quocnhut134/Visible-Infrared_Person_Re-Identification_on_Weak_Hardware_using_Optimized-IDKL_Model)** <br> Optimized IDKL Model for weak hardware performance. | CV | PyTorch, Optimization, Deep Learning, IDKL Model |
 | **[Banking Intent Classification](https://github.com/quocnhut134/Finetuning-LLM-Model-for-Intent-Classification-in-Banking)** <br> Fine-tuning LLM to classify user intents in banking sector. | LLM | Transformers, LLM |
-| **[Sketch-to-Face Translation](https://github.com/quocnhut134/https://github.com/quocnhut134/Sketch-to-Face_Translation)** <br> Generating realistic faces from sketches by Finetuning Stable Diffusion Model | GenAI | Stable Diffusion, ControlNet, T2I Adapter, Low Rank Adaptation |
+| **[Sketch-to-Face Translation](https://github.com/quocnhut134/Sketch-to-Face_Translation)** <br> Generating realistic faces from sketches by Finetuning Stable Diffusion Model | GenAI | Stable Diffusion, ControlNet, T2I Adapter, Low Rank Adaptation |
 | **[Vietnamese Handwriting OCR](https://github.com/quocnhut134/CRNN_Vietnamese-Handwriting-Sequence_OCR)** <br> Sequence recognition using CRNN architecture. | OCR | CRNN, PyTorch |
 | **[AI Chatbot Application](https://github.com/quocnhut134/Chatbot_LLM_Application)** <br> QA System aimed at document understanding. | LLM | LangChain, Gemini API |
 | **[Horror Scene Classification](https://github.com/quocnhut134/Horror_Scene_Classification_based_on_video)** <br> Video content analysis and classification. | Video | Deep Learning, CNN |
