@@ -6,7 +6,7 @@
 I am a third-year **Computer Science** student at **University of Information Technology (UIT - VNUHCM)**. 
 My passion lies in bridging the gap between theoretical AI models and real-world applications. I am actively looking for opportunities as an **AI / Computer Vision / NLP Engineer**.
 
-* I’m currently working on **Person Re-Identification & LLM Fine-tuning**.
+* I’m currently working on **Person Re-Identification, GenAI and LLM Fine-tuning**.
 * I believe in **Critical Thinking** and **Knowledge Sharing**.
 * **Learning philosophy:** "Learn everything, understand deeply, and share widely."
 
