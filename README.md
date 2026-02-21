@@ -48,15 +48,6 @@ Here are some of my key projects in Computer Vision (CV) and NLP:
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quocnhut134&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nhut's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocnhut134&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-</div>
-
----
-
 ### Connect with me
 
 * **Email:** [duongquocnhut134@gmail.com](mailto:duongquocnhut134@gmail.com)
