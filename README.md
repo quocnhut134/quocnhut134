@@ -12,6 +12,13 @@ My passion lies in bridging the gap between theoretical AI models and real-world
 
 ---
 
+### Connect with me
+
+* **Email:** [duongquocnhut134@gmail.com](mailto:duongquocnhut134@gmail.com)
+* **Linkedln:** [Duong Quoc Nhut](https://www.linkedin.com/in/duong-quoc-nhut-96413236a/)
+
+---
+
 ### Tech Stack
 
 **Languages**
@@ -47,8 +54,3 @@ Here are some of my key projects in Computer Vision (CV) and NLP:
 | **[Horror Scene Classification](https://github.com/quocnhut134/Horror_Scene_Classification_based_on_video)** <br> Video content analysis and classification. | Video | Deep Learning, CNN |
 
 ---
-
-### Connect with me
-
-* **Email:** [duongquocnhut134@gmail.com](mailto:duongquocnhut134@gmail.com)
-* **Linkedln:** [Duong Quoc Nhut](https://www.linkedin.com/in/duong-quoc-nhut-96413236a/)
