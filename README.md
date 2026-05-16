@@ -51,3 +51,4 @@ Here are some of my key projects in Computer Vision (CV) and NLP:
 ### Connect with me
 
 * **Email:** [duongquocnhut134@gmail.com](mailto:duongquocnhut134@gmail.com)
+* **Linkedln:** [Duong Quoc Nhut](https://www.linkedin.com/in/duong-quoc-nhut-96413236a/)
